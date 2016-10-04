@@ -1,0 +1,1 @@
+g++ main.cpp -lSDL -lpthread -lSDL_mixer -lm -lode -lGL -lGLU -lglut && ./a.out
